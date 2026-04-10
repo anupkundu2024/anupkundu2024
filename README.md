@@ -11,8 +11,19 @@
 <br/>
 
 </div>
-# 💫 About Me:
-A passionate Full Stack Developer || AI Enthusiast from India  <br><br>Email Me 👉 ✉️ anupbubay9986@gmail.com For Collaboration / Projects / Internship Opportunities 😊  <br><br>🔭 I’m currently working on: Full-stack web applications using MERN stack & AI-integrated projects  <br>🌱 I’m currently learning: System Design, Backend Development & exploring LLM / AI tools  <br>👯 I’m looking to collaborate on: Open-source projects, AI-powered apps & real-world web applications  <br>🤔 I’m looking for help with: Scaling backend systems & deploying production-ready apps  <br>💬 Ask me about: JavaScript, React.js, Frontend Development & AI tools usage  <br>📫 How to reach me: anupbubay9986@gmail.com <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: I use AI tools to learn faster and build smarter projects 🚀  
+# 💫 Hi 👋, I'm Anup Kundu<br>
+**A passionate Full Stack Developer || AI Enthusiast from India**  
+
+Email Me 👉 ✉️ **anupbubay9986@gmail.com** For Collaboration / Projects / Internship Opportunities 😊  
+
+- 🔭 **I’m currently working on:** Full-stack web applications using MERN stack & AI-integrated projects  
+- 🌱 **I’m currently learning:** Advanced JavaScript, React.js, Backend Development & exploring LLM / AI tools  
+- 👯 **I’m looking to collaborate on:** Open-source projects, AI-powered web apps & real-world applications  
+- 🤔 **I’m looking for help with:** Backend scalability, system design & deploying production-ready apps  
+- 💬 **Ask me about:** JavaScript, React.js, Frontend Development, GitHub & AI tools  
+- 📫 **How to reach me:** anupbubay9986@gmail.com  
+- 😄 **Pronouns:** He/Him  
+- ⚡ **Fun fact:** I use AI tools to learn faster and build smarter projects 🚀   
 
 
 ## 🌐 Socials:
