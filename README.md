@@ -1,3 +1,16 @@
+<div align="center">
+  
+<!-- HEADER -->
+<img src="https://svg-banners.vercel.app/api?type=luminance&text1=Anup%20Kundu&text2=%F0%9F%9A%80%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&width=900&height=200" width="100%" alt="Header Banner"/>
+
+<br/><br/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Developer+(MERN);⚛️+React+%7C+JavaScript+%7C+Node.js;🤖+Exploring+AI+%7C+LLM+Tools;🚀+Building+Real-World+Projects;🎯+Looking+for+Internship+Opportunities)](https://git.io/typing-svg)
+
+<br/>
+
+</div>
 # 💫 About Me:
 A passionate Full Stack Developer || AI Enthusiast from India  <br><br>Email Me 👉 ✉️ anupbubay9986@gmail.com For Collaboration / Projects / Internship Opportunities 😊  <br><br>🔭 I’m currently working on: Full-stack web applications using MERN stack & AI-integrated projects  <br>🌱 I’m currently learning: System Design, Backend Development & exploring LLM / AI tools  <br>👯 I’m looking to collaborate on: Open-source projects, AI-powered apps & real-world web applications  <br>🤔 I’m looking for help with: Scaling backend systems & deploying production-ready apps  <br>💬 Ask me about: JavaScript, React.js, Frontend Development & AI tools usage  <br>📫 How to reach me: anupbubay9986@gmail.com <br>😄 Pronouns: He/Him  <br>⚡ Fun fact: I use AI tools to learn faster and build smarter projects 🚀  
 
